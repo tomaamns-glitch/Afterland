@@ -1,0 +1,13 @@
+[
+  {
+    "id": "mi-modpack",
+    "name": "Afterland",
+    "description": "Mundo magico",
+    "minecraftVersion": "1.21.1",
+    "loaderType": "neoforge",
+    "version": "1.0.4",
+    "imageUrl": "https://i.imgur.com/ejemplo.png",
+    "fileCount": 10,
+    "totalSizeMb": 100
+  }
+]
