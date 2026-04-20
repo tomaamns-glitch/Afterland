@@ -1,1 +1,13 @@
-[]
+[
+  {
+    "id": "afterland",
+    "name": "The Legacy Afterland",
+    "description": "",
+    "minecraftVersion": "1.21.1",
+    "loaderType": "neoforge",
+    "version": "1.0.3",
+    "imageUrl": "https://media.discordapp.net/attachments/1205255141310079017/1495635765575815188/txB9veT5gAAAABJRU5ErkJggg.png?ex=69e6f6da&is=69e5a55a&hm=b964e88609334037a48f7b225fd5ada896a81292d20547c8ba256ba7109a210b&=&format=webp&quality=lossless&width=672&height=960",
+    "fileCount": 0,
+    "totalSizeMb": 0
+  }
+]
