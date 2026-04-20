@@ -1,1 +1,13 @@
-[]
+[
+  {
+    "id": "afterland",
+    "name": "The Legacy Afterland",
+    "description": "",
+    "minecraftVersion": "1.21.1",
+    "loaderType": "neoforge",
+    "version": "1.0.4",
+    "imageUrl": "",
+    "fileCount": 0,
+    "totalSizeMb": 0
+  }
+]
